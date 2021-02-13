@@ -16,3 +16,4 @@ const startupMessage = `[48;2;0;0;0m [48;2;0;0;0m [48;2;0;0;0m [48;2;0;0;0m
 `
 
 console.log(startupMessage)
+console.log("hi")
